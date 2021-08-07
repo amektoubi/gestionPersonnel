@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ma.iga</groupId>
-	<artifactId>gestionPersonnel</artifactId>
+	<artifactId>gestion_personnel</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>gestionPersonnel</name>
+	<name>gestion personnel</name>
 	<description>gestion Personnel app</description>
 	<properties>
 		<java.version>1.8</java.version>
