@@ -52,7 +52,7 @@
   <repository>
     <id>github</id>
     <name>NoticeBoard Simple CRUD application</name>
-    <url>https://github.com/amektoubi/gestionPersonnel</url> 
+    <url>https://maven.pkg.github.com/amektoubi/gestionPersonnel</url> 
   </repository>
 </distributionManagement>
 </project>
