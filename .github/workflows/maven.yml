@@ -41,6 +41,9 @@ jobs:
   artifact:
     name: Publish - GitHub Packages
     runs-on: ubuntu-18.04
+    permissions: 
+      contents: read
+      packages: write 
     needs: [test, sonar]
 
     steps:
