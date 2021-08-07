@@ -44,6 +44,6 @@ public class ServiceSalaireTest {
     @Test
     public void calculeSalaire() {
     	Double salaire = salaireService.calculeSalaire(1L);
-        assertThat(salaire).isEqualTo(115.0);
+        assertThat(salaire).isEqualTo(110.0);
     }
 }

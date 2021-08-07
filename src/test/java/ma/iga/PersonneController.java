@@ -46,6 +46,6 @@ import ma.iga.model.Personne;
 
 	    @Test
 	    public void calculeSalaire() {
-	        assertThat(this.restTemplate.getForObject(url+"/api/v1/personne/1/salaire", String.class)).isEqualTo("115.0");
+	        assertThat(this.restTemplate.getForObject(url+"/api/v1/personne/1/salaire", String.class)).isEqualTo("110.0");
 	    }
 	}
