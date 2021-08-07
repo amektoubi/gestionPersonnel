@@ -84,11 +84,10 @@
 
 
 	<distributionManagement>
-  
-  <repository>
-    <id>github</id>
-    <name>NoticeBoard Simple CRUD application</name>
-    <url>https://maven.pkg.github.com/amektoubi/gestionPersonnel</url> 
-  </repository>
-</distributionManagement>
+    <repository>
+      <id>github</id>
+      <name>GitHub Packages</name>
+      <url>https://maven.pkg.github.com/amektoubi/gestionPersonnel</url>
+    </repository>
+  </distributionManagement>
 </project>
